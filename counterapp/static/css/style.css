@@ -1,0 +1,42 @@
+
+/* * { outline: 1px dotted red; }*/
+
+
+div.top{
+   
+    height: 48px;
+    background-color:#C1C1C1;
+    width: 740px;
+    margin: 0 auto;
+}
+   
+div.bottom{
+   
+   height: 48px;
+   background-color:#C1C1C1;
+   width: 740px;
+   margin: 0 auto;
+}
+div.container{
+    width: 740px;
+    min-height: 500px;
+    margin: 0 auto; 
+   
+}
+
+div.content{
+    display: flex;
+    align-items:flex-start;
+    flex-wrap: wrap; 
+    height: 475px;
+ 
+}
+div.box{
+    height: 140px;
+    width: 140px;
+    background-color: #9FC5F8;
+    margin: 20px;
+}
+h1{
+    margin: 0%;
+}
